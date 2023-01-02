@@ -48,6 +48,12 @@ It is highly recommended to select the appropriate batch size based on your GPU'
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Citation
+@article{razeghi2022bottlenecks,
+  title={Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs Among Complexity, Leakage, and Utility},
+  author={Razeghi, Behrooz and Calmon, Flavio P and Gunduz, Deniz and Voloshynovskiy, Slava},
+  journal={arXiv preprint arXiv:2207.04895},
+  year={2022}
+}
 
 
 ## Acknowledgments
