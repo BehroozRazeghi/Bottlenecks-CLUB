@@ -1,6 +1,6 @@
 # CLUB
 
-This is a repository of the code for "Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs among Complexity, Leakage, and Utility".
+The official code of "**Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs among Complexity, Leakage, and Utility**" [[arXiv]([url](https://arxiv.org/abs/2207.04895))].
 
 ## Getting Started
 
