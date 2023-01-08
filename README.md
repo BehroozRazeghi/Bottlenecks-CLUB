@@ -23,10 +23,10 @@ The official code of "**Bottlenecks CLUB: Unifying Information-Theoretic Trade-o
 * Run data_colored_mnist.ipynb to generate Colored-MNIST dataset (both biased and uniform)
 
 * Run exp_colored_mnist_P1.ipynb for Colored-MNIST experiments with the Algorithm P1 supervised or unsupervised version
-* Run exp_colored_mnist_P5.ipynb for Colored-MNIST experiments with the Algorithm P3 supervised or unsupervised version
+* Run exp_colored_mnist_P3.ipynb for Colored-MNIST experiments with the Algorithm P3 supervised or unsupervised version
 
 * Run exp_celeba_P1.ipynb for CelebA experiments with the Algorithm P1 supervised or unsupervised version
-* Run exp_celeba_P5.ipynb for CelebA experiments with the Algorithm P3 supervised or unsupervised version
+* Run exp_celeba_P3.ipynb for CelebA experiments with the Algorithm P3 supervised or unsupervised version
 
 * **Note:** There is a Boolean config variable (called _supervised_) at the beginning of each experiment for changing algorithm type to the supervised or unsupervised type
 ## Help
@@ -35,8 +35,8 @@ It is highly recommended to select the appropriate batch size based on your GPU'
 
 ## Authors
 
-* Amir Atashin
 * Behrooz Razeghi
+* Amir Atashin
 
 ## Version History
 
