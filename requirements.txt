@@ -1,0 +1,4 @@
+chainer==7.8.1
+matplotlib==3.5.2
+numpy==1.21.5
+tensorflow==2.11.0
