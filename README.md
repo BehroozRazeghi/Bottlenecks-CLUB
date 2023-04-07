@@ -1,6 +1,6 @@
 # Bottlenecks CLUB
 
-The official code of "**Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs among Complexity, Leakage, and Utility**" [[arXiv](https://arxiv.org/abs/2207.04895)].
+The official code of "**Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs among Complexity, Leakage, and Utility**", IEEE Transactions on Information Forensics and Security, 2023. [[arXiv](https://arxiv.org/abs/2207.04895)].
 
 ## Getting Started
 
@@ -50,12 +50,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 
 ```
-@article{razeghi2022bottlenecksCLUB,
-  title={Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs Among Complexity, Leakage, and Utility},
-  author={Razeghi, Behrooz and Calmon, Flavio P and Gunduz, Deniz and Voloshynovskiy, Slava},
-  journal={arXiv preprint arXiv:2207.04895},
-  year={2022}
-}
+@article{razeghi2023BottlenecksCLUB,
+  author={Razeghi, Behrooz and Calmon, Flavio P. and Gunduz, Deniz and Voloshynovskiy, Slava},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Bottlenecks CLUB: Unifying Information-Theoretic Trade-Offs Among Complexity, Leakage, and Utility}, 
+  year={2023},
+  volume={18},
+  number={},
+  pages={2060-2075},
+  doi={10.1109/TIFS.2023.3262112}}
 ```
 
 ## Acknowledgments
